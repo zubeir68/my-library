@@ -1,0 +1,3 @@
+[submodule "my-library-client"]
+	path = my-library-client
+	url = https://github.com/zubeir68/my-library-client.git
