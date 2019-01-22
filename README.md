@@ -1,6 +1,6 @@
 # My Library
 
-Fun Ember.js and Django Project, with ember for the client and django for the backend. This project consist of a library, where you can simply add, edit and delete a book.
+Fun Ember.js and Django CRUD Project, with ember for the client and django for the backend. This project consist of a library, where you can simply add, edit and delete a book.
 
 ### Prerequisites
 
